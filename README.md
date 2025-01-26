@@ -1,6 +1,7 @@
 # LSB Steganography
 
 This project demonstrates how to hide and retrieve secret messages using LSB (Least Significant Bit) Steganography in images.
+
 note: this project is still in tryout feel free to let me know if anything is not working to make it better
 
 ## Features
